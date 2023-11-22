@@ -1,0 +1,33 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #86B817;
+  --secondary: #FE8800;
+  --light: #F5F5F5;
+  --dark: #14141F;
+
+  --light-blue: #B1E7FF;
+  --light-green: #C6FF8E;
+  --light-basic: #FFE7A9;
+  --light-standard: #FE9494;
+  --light-premium: #E7A2FF;
+  --light-blue-bg: #E3F1FE;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.4;
+  font-size: 0.9rem;
+}
